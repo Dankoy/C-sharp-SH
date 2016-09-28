@@ -1,2 +1,2 @@
 # C-sharp-SH
-C# little projects from MSU course
+C# projects and tasks from MSU course
